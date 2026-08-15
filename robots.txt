@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-gidqvc.koi888win.sbs/sitemap.xml
